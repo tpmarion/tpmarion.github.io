@@ -1,0 +1,4 @@
+baseURL = 'https://tpmarion.com'
+languageCode = 'en-us'
+title = 'Turning Point Marion County'
+theme = 'hugo-bootstrap-theme'
